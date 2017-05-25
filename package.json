@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp-portfolio",
+  "version": "1.0.0",
+  "description": "Boostrap portfilio (freeCodeCamp)",
+  "main": "main.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony-Thomas/bootstrap-portfolio-project.git"
+  },
+  "author": "Tony Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tony-Thomas/bootstrap-portfolio-project/issues"
+  },
+  "homepage": "https://github.com/Tony-Thomas/bootstrap-portfolio-project#readme"
+}
